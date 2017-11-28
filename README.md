@@ -1,7 +1,9 @@
 # mfc-generalizability
+Summary and requirements:
+-------------------------
 This repository contains MATLAB scripts needed to produce key results found in Kragel et al. 2017 and supplementary materials. 
 They have been tested using MATLAB 2016b, and require the CANLAB core tools found at https://github.com/canlab
--------------------------------------------------------------------------------------------------------------------------------
+
 This code requires data available at https://canlabweb.colorado.edu/publications-v1.html 
 
 To run the scripts, add Canlab Core, SPM12, the root install directory from the above link (and subfolders), and finally this folder and 
