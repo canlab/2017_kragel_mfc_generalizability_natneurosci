@@ -2,9 +2,9 @@
 Summary and requirements:
 -------------------------
 This repository contains MATLAB scripts needed to produce key results found in Kragel et al. 2017 and supplementary materials. 
-They have been tested using MATLAB 2016b, and require the CANLAB core tools found at https://github.com/canlab
+They have been tested using MATLAB 2016b, and require [the CANLAB core tools](https://github.com/canlab/CanlabCore).
 
-This code requires data available at [here](https://canlabweb.colorado.edu/publications-v1/47-published-in-2018/4950-kragel-pa-kano-m-van-oudenhove-l-ly-hg-dupont-p-rubio-a-delon-martin-c-bonaz-b-manuck-s-gianaros-pj-ceko-m-losin-ear-woo-cw-wager-td-accepted-generalizable-representations-of-pain-cognitive-control-and-negative-emotion-in-medial-frontal-cortex-nature-neuroscience.html).
+This code requires data available [here](https://canlabweb.colorado.edu/publications-v1/47-published-in-2018/4950-kragel-pa-kano-m-van-oudenhove-l-ly-hg-dupont-p-rubio-a-delon-martin-c-bonaz-b-manuck-s-gianaros-pj-ceko-m-losin-ear-woo-cw-wager-td-accepted-generalizable-representations-of-pain-cognitive-control-and-negative-emotion-in-medial-frontal-cortex-nature-neuroscience.html).
 
 To run the scripts, add Canlab Core, SPM12, the root install directory from the above link (and subfolders), and finally this folder and 
 subdirectories to the MATLAB path. Change to the root install directory and run the script RunAllAnalyses.m to recreate the main results in the manuscript.
